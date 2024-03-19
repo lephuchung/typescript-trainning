@@ -1,4 +1,4 @@
 ﻿# typescript-trainning
 ## To check:
-    tsc ./projects/lesson?/lesson?.ts
+    Write on terminal: tsc ./projects/lesson?/lesson?.ts
     Go Live 
