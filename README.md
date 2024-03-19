@@ -1,4 +1,4 @@
 ﻿# typescript-trainning
-To check:
-  tsc ./projects/lesson?/lesson?.ts
-  Go live
+##To check:
+  tsc ./projects/lesson?/lesson?.ts\\
+  Go live \\
